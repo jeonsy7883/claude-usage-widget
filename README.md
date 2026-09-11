@@ -1,7 +1,9 @@
-# Claude 사용량 위젯
+# claude_gauge
 
 Claude Code의 **5시간 사용량**과 **7일 누적 사용량**을 시스템 트레이에서 실시간으로 확인하는 위젯입니다.  
 Windows와 Ubuntu(Linux) 환경을 모두 지원합니다.
+
+![스크린샷](docs/screenshot.png)
 
 ## 기능
 
